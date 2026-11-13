@@ -46,3 +46,15 @@ Uninstall:
 
 The container was verified with retoc verify. Tested successfully in the
 maintainer's game setup; other game versions or configurations may differ.
+
+
+【授權與免責聲明】
+• 版權歸屬：本補丁不享有原檔案（原作品）之智慧財產權，原著作權仍歸原作者或原發行公司所有。
+• 自由分享：歡迎自由複製、修改與散布本補丁內容。
+• 禁止商用：嚴禁將本補丁用於任何商業用途、營利行為或進行販售。
+
+
+[Authorization and Disclaimer]
+• Copyright Ownership: This patch does not grant any intellectual property rights over the original files (the original work); all such rights remain with the original author(s) or the original publisher(s).
+• Free Sharing: You are free to copy, modify, and distribute the contents of this patch.
+• Non-Commercial Use: The use of this patch for any commercial purpose, profit-seeking activity, or sale is strictly prohibited.
